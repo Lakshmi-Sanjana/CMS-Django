@@ -100,9 +100,6 @@ Welcome to the CMS-Django project! This is a Django-based content management sys
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or issues, please reach out to [gvarshithreddy](https://github.com/gvarshithreddy) on GitHub.
 
 ---
 
